@@ -1,0 +1,23 @@
+C:\Users\Anton Lyapunov\OneDrive\Seneca\OOP practice\DB project eQube\DB project\eQube C++ test project\x64\Debug\eQube C++ test project.vcxproj.AssemblyReference.cache
+C:\Users\Anton Lyapunov\OneDrive\Seneca\OOP practice\DB project eQube\DB project\eQube C++ test project\x64\Debug\eQube C++ test project.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Anton Lyapunov\OneDrive\Seneca\OOP practice\DB project eQube\DB project\eQube C++ test project\x64\Debug\eQubeCtestproject.Database Connection.resources
+C:\Users\Anton Lyapunov\OneDrive\Seneca\OOP practice\DB project eQube\DB project\eQube C++ test project\x64\Debug\eQube C++ test project.vcxproj.GenerateResource.cache
+C:\Users\Anton Lyapunov\OneDrive\Seneca\OOP practice\DB project eQube\DB project\eQube C++ test project\x64\Debug\eQubeCtestproject.DataDictionary.resources
+C:\Users\lyapu\OneDrive\Seneca\OOP practice\DB project eQube\Working project but with commented lines\eQube C++ test project\x64\Debug\eQube C++ test project.vcxproj.AssemblyReference.cache
+C:\Users\lyapu\OneDrive\Seneca\OOP practice\DB project eQube\Working project but with commented lines\eQube C++ test project\x64\Debug\eQube C++ test project.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\lyapu\OneDrive\Seneca\OOP practice\DB project eQube\Working project but with commented lines\eQube C++ test project\x64\Debug\eQubeCtestproject.Database Connection.resources
+C:\Users\lyapu\OneDrive\Seneca\OOP practice\DB project eQube\Working project but with commented lines\eQube C++ test project\x64\Debug\eQubeCtestproject.DataDictionary.resources
+C:\Users\lyapu\OneDrive\Seneca\OOP practice\DB project eQube\Working project but with commented lines\eQube C++ test project\x64\Debug\eQube C++ test project.vcxproj.GenerateResource.cache
+C:\Users\lyapu\OneDrive\Seneca\OOP practice\DB project eQube\Working project but with commented lines\eQube C++ test project\x64\Debug\eQube C++ test project.exe
+C:\Users\lyapu\OneDrive\Seneca\OOP practice\DB project eQube\Latest project on laptop Oct 14\eQube C++ test project\x64\Debug\eQube C++ test project.vcxproj.AssemblyReference.cache
+C:\Users\lyapu\OneDrive\Seneca\OOP practice\DB project eQube\Latest project on laptop Oct 14\eQube C++ test project\x64\Debug\eQube C++ test project.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\lyapu\OneDrive\Seneca\OOP practice\DB project eQube\Latest project on laptop Oct 14\eQube C++ test project\x64\Debug\eQubeCtestproject.Database Connection.resources
+C:\Users\lyapu\OneDrive\Seneca\OOP practice\DB project eQube\Latest project on laptop Oct 14\eQube C++ test project\x64\Debug\eQubeCtestproject.DataDictionary.resources
+C:\Users\lyapu\OneDrive\Seneca\OOP practice\DB project eQube\Latest project on laptop Oct 14\eQube C++ test project\x64\Debug\eQube C++ test project.vcxproj.GenerateResource.cache
+C:\Users\lyapu\OneDrive\Seneca\OOP practice\DB project eQube\Latest project on laptop Oct 14\eQube C++ test project\x64\Debug\eQube C++ test project.exe
+C:\Users\Anton Lyapunov\OneDrive\Seneca\OOP practice\DB project eQube\Latest project on laptop Oct 14\eQube C++ test project\x64\Debug\eQube C++ test project.vcxproj.AssemblyReference.cache
+C:\Users\Anton Lyapunov\OneDrive\Seneca\OOP practice\DB project eQube\Latest project on laptop Oct 14\eQube C++ test project\x64\Debug\eQube C++ test project.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Anton Lyapunov\OneDrive\Seneca\OOP practice\DB project eQube\Latest project on laptop Oct 14\eQube C++ test project\x64\Debug\eQubeCtestproject.Database Connection.resources
+C:\Users\Anton Lyapunov\OneDrive\Seneca\OOP practice\DB project eQube\Latest project on laptop Oct 14\eQube C++ test project\x64\Debug\eQubeCtestproject.DataDictionary.resources
+C:\Users\Anton Lyapunov\OneDrive\Seneca\OOP practice\DB project eQube\Latest project on laptop Oct 14\eQube C++ test project\x64\Debug\eQube C++ test project.vcxproj.GenerateResource.cache
+C:\Users\Anton Lyapunov\OneDrive\Seneca\OOP practice\DB project eQube\Latest project on laptop Oct 14\eQube C++ test project\x64\Debug\eQube C++ test project.exe
